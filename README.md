@@ -9,5 +9,5 @@ The filter list is in `filters.txt`.
 - [GitHub (Source Code)](https://github.com/iorate/ublacklist)  
 
 ## Credits
-[ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation)
-[uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
+- [ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation)  
+- [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
